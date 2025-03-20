@@ -3,7 +3,7 @@
 ## 1、代码目录结构
 按照分析步骤进行划分目录结构
 ## 数据获取 data_geting
--[爬虫获取]spider_geting
--[数据库获取]sql_geting
+-[爬虫获取]spider_geting \n
+-[数据库获取]sql_geting\n
 -request库爬取、shell代码获取、python连接数据库获取
 #### 这是较小字体
