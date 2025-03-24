@@ -6,4 +6,7 @@
 - [爬虫获取]spider_geting<br>
 - [数据库获取]sql_geting<br>
 - request库爬取、shell代码获取、python连接数据库获取
-#### 这是较小字体
+## 数据处理data_processing
+- [异常处理]abnormal_processing<br>
+- [缺失值处理]miss_processing<br>
+- 异常值删除、缺失值平滑指数填充、重采集填充、数据集的merge
