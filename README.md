@@ -16,9 +16,11 @@
 -[PCA降维] feature_pca<br>
 ## 数据可视化data_visualizating
 -[时间序列分析]Time_series<br>
--[相关性分析]Correlation<br
+-[相关性分析]Correlation<br>
 ## 模型处理model_processing
 -[模型训练]model_train<br>
 -LSTM、CNN、BP、LGB、随机森林、线性回归<br>
 -[模型预测]model_predict<br>
-
+## 模型评估evaluation_processing
+-准确率计算（RMSE、MAE、MAPE、R²、变异系数）
+-分析报告
