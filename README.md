@@ -13,6 +13,12 @@
 ## 特征工程feature_processing
 -[归一化] feature_normalizer<br>
 -‌Min-Max归一化 ·‌Z-Score归一化<br>
+-[PCA降维] feature_pca<br>
 ## 数据可视化data_visualizating
 -[时间序列分析]Time_series<br>
--[相关性分析]Correlation
+-[相关性分析]Correlation<br
+## 模型处理model_processing
+-[模型训练]model_train<br>
+-LSTM、CNN、BP、LGB、随机森林、线性回归<br>
+-[模型预测]model_predict<br>
+
