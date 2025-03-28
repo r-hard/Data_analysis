@@ -9,4 +9,10 @@
 ## 数据处理data_processing
 - [异常处理]abnormal_processing<br>
 - [缺失值处理]miss_processing<br>
-- IQR处理异常值（删除）、缺失值平滑指数填充、重采集填充、数据集的merge
+- IQR处理异常值（删除）、缺失值平滑指数填充、数据集的merge、数据集转置
+## 特征工程feature_processing
+-[归一化] feature_normalizer<br>
+-‌Min-Max归一化 ·‌Z-Score归一化<br>
+##数据可视化data_visualizating
+-[时间序列分析]Time_series<br>
+-[相关性分析]Correlation
