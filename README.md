@@ -9,4 +9,4 @@
 ## 数据处理data_processing
 - [异常处理]abnormal_processing<br>
 - [缺失值处理]miss_processing<br>
-- 异常值删除、缺失值平滑指数填充、重采集填充、数据集的merge
+- IQR处理异常值（删除）、缺失值平滑指数填充、重采集填充、数据集的merge
