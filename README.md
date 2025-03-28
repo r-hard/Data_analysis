@@ -13,6 +13,6 @@
 ## 特征工程feature_processing
 -[归一化] feature_normalizer<br>
 -‌Min-Max归一化 ·‌Z-Score归一化<br>
-##数据可视化data_visualizating
+## 数据可视化data_visualizating
 -[时间序列分析]Time_series<br>
 -[相关性分析]Correlation
