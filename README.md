@@ -22,5 +22,5 @@
 -LSTM、CNN、BP、LGB、随机森林、线性回归<br>
 -[模型预测]model_predict<br>
 ## 模型评估evaluation_processing
--准确率计算（RMSE、MAE、MAPE、R²、变异系数）
+-准确率计算（RMSE、MAE、MAPE、R²、变异系数）<br>
 -分析报告
