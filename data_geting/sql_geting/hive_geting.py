@@ -1,7 +1,7 @@
 '''
 @name:ranjinsheng 
 @time:2025-07-22
-@gold:hive数据库连接与数据获取
+@aim:hive数据库连接与数据获取
 
 @connection_process:
 1.配置数据库连接设置
