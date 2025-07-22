@@ -2,4 +2,10 @@
 @name:ranjinsheng
 @time:2025-07-23
 @aim:mysql数据库连接及其数据获取
+@connect_process:
+1.配置数据库连接设置
+2.连接数据库
+3.查询数据库
+4.转成DataFrame
+5.导出数据
 '''
