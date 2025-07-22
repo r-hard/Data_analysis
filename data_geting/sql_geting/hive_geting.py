@@ -1,5 +1,5 @@
 '''
-@name:r-hard
+@name:ranjinsheng 
 @time:2025-07-22
 @gold:hive数据库连接与数据获取
 
